@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## I'm a Student, Developer, Creator, and Designer!!
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on open source
@@ -13,4 +14,3 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mikhaelAPG&theme=highcontrast&show_icons=true&count_private=true)
 
-### Show some ❤️ by starring some of the repositories!
