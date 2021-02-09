@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about any tech related stuff
+- 🤔 I’m looking for help with java spring
+- 💬 Ask me about tech and any tech related stuff
 - 📫 How to reach me: Instagram - https://www.instagram.com/mikhaelapg/, LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Happy
