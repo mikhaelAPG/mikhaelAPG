@@ -8,7 +8,7 @@
 - 💬 Ask me about tech and any tech related stuff
 - 📫 How to reach me: Instagram - https://www.instagram.com/mikhaelapg/, LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm Happy
+- ⚡ Fun fact: I'm Always Happy
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelAPG&layout=compact)
 
