@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mikhael
 
-## I'm a Student, Developer, Creator, and Designer!!
+## I'm a Student, Developer, and Designer!!
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on open source
