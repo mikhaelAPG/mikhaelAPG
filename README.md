@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Always Happy
 
-[<img src="https://spotify-readme.iyel2000.vercel.app/api/spotify-playing" alt="Spotify Spotify Playing" width="350" />
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/iyel2000/codestackr)
 
 ### Github Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mikhaelAPG&theme=radical&show_icons=true&count_private=true)
