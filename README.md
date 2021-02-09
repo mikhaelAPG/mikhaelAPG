@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mikhael
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mikhael
 
 ## I'm a Student, Developer, and Designer!!
 - 🔭 I’m currently working on my course
