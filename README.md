@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with java spring
+- 📫 How to reach me
 - 💬 Ask me about tech and any tech related stuff
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Always Happy
@@ -14,9 +15,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelAPG&layout=compact&theme=radical)](https://github.com/mikhaelAPG/github-readme-stats) 
 
-### 📫 How to reach me: 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][ https://www.linkedin.com/in/mikhaeladrielpg/]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/mikhaelapg/]
+### Connect with me: 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Languages & Tools:
 
