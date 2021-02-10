@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with java spring
-- 📫 How to reach me: Instagram - https://www.instagram.com/mikhaelapg/, LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
+- 📫 How to reach me: 
+  Instagram - https://www.instagram.com/mikhaelapg/, 
+  LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
 - 💬 Ask me about tech and any tech related stuff
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Always Happy
