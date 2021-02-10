@@ -13,9 +13,9 @@
 - ⚡ Fun fact: I'm Always Happy
 
 ### Github Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=mikhaelAPG&theme=dracula&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mikhaelAPG&theme=merko&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelAPG&layout=compact&theme=dracula)](https://github.com/mikhaelAPG/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelAPG&layout=compact&theme=merco)](https://github.com/mikhaelAPG/github-readme-stats) 
 
 ### Connect with me: 
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
