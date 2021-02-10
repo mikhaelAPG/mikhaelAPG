@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with java spring
 - 💬 Ask me about tech and any tech related stuff
-- 📫 How to reach me:
-  Instagram - https://www.instagram.com/mikhaelapg/, LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Always Happy
 
@@ -15,6 +13,10 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mikhaelAPG&theme=radical&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelAPG&layout=compact&theme=radical)](https://github.com/mikhaelAPG/github-readme-stats) 
+
+### 📫 How to reach me: 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][ https://www.linkedin.com/in/mikhaeladrielpg/]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/mikhaelapg/]
 
 ### Languages & Tools:
 
