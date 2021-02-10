@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with java spring
-- 📫 How to reach me
+- 📫 How to reach me: Instagram - https://www.instagram.com/mikhaelapg/, LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
 - 💬 Ask me about tech and any tech related stuff
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Always Happy
@@ -48,8 +48,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="bootsrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootsrap/bootsrap.png" />
 
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
