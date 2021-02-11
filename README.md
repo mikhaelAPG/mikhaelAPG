@@ -12,15 +12,15 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Always Happy
 
-### Connect with me: 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br>
-
 ### Github Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mikhaelAPG&theme=tokyonight&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelAPG&layout=compact&theme=tokyonight)](https://github.com/mikhaelAPG/github-readme-stats)
+
+### Connect with me: 
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<br>
 
 ### Languages & Tools:
 
