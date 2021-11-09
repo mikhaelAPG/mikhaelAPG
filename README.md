@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mikhael 
 
-### I'm a Student & Developer!!
+### I'm a Student!!
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on open source
