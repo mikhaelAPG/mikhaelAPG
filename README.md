@@ -10,7 +10,7 @@
   <br>LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
 - 💬 Ask me about tech and any tech related stuff
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm Always Happy
+- ⚡ Fun fact: Love to learn new things, as well as, very enthusiastic to overcome obstacles.
 
 ### Github Stats:
 
