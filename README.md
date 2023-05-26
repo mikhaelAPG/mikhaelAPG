@@ -1,10 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mikhael 
 
 ### I'm a Informatics Undergraduate Student!!
-- 🔭 I’m currently working on my course
 - 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with computer science
 - 📫 How to reach me: 
   <br>Instagram - https://www.instagram.com/mikhaelapg/, 
   <br>LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
