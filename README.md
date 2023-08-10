@@ -7,9 +7,6 @@
 - 💬 Ask me about tech and any tech related stuff
 - 😄 Pronouns: He/His
 
-### Visitor Count
-![](https://komarev.com/ghpvc/?username=MikhaelAdrielParatamaGana)
-
 ### Github Stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mikhaelAPG&theme=tokyonight&show_icons=true&count_private=true)
