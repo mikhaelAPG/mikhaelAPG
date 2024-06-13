@@ -15,10 +15,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelAPG&layout=compact&theme=tokyonight)](https://github.com/mikhaelAPG/github-readme-stats)
 
-### Connect with me: 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br>
+### Connect with me: <p align="left">
+<a href="https://linkedin.com/in/mikhaeladrielpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
+<a href="https://instagram.com/mikhaelapg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
+</p>
 
 ### Languages & Tools:
 
