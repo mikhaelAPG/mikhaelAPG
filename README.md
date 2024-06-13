@@ -22,4 +22,4 @@
 
 ### Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,ts,python,tensorflow,tailwind,bootstrap,vue,nuxtjs,react,nextjs,angular,php,laravel,kotlin,java,spring,postgres,mongodb,mysql,prisma,nestjs,git,figma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,ts,python,tensorflow,tailwind,bootstrap,vue,nuxtjs,react,nextjs,angular,php,laravel,kotlin,java,spring,go,postgres,mongodb,mysql,prisma,nestjs,git,figma,docker)](https://skillicons.dev)
